@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshit-K-Rai
+- 👋 Hi, I’m @Harshit Kumar Rai
 - 👀 I’m interested in data analysis, data science
 - 🌱 I’m currently learning SQL & BI
 - 💞️ I’m looking to collaborate on Data Projects
